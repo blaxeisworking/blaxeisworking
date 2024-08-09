@@ -6,6 +6,7 @@
 - ⚡ Fun fact: i know logic building but dont know how to code it(on paper).
 
 My Tech Stack😎😎
+
 ![image](https://github.com/user-attachments/assets/9dba9731-5502-46c6-8ca8-4c3f0e8152b6)
 HTML
 
@@ -35,6 +36,7 @@ PYTHON
 
 ![image](https://github.com/user-attachments/assets/93f7eb7b-8fe6-4999-ae3d-af501aaaabf3)
 PHOTOSHOP
+
 *![image](https://github.com/user-attachments/assets/010e4aee-c59b-4f84-90a2-2bcf9f9ceed7)
 CORAL DRAW
 
